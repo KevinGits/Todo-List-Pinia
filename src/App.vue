@@ -17,6 +17,9 @@
                 <li>
                     <router-link to="/TodosView">Todo</router-link>
                 </li>
+                <li>
+                    <router-link to="/Users">User</router-link>
+                </li>
             </ul>
 
         </div>
